@@ -16,16 +16,12 @@ I love programming, problem-solving ,automating day-to-day tasks and working on 
   * Web Scraping
   * Image Processing with Open CV
   
-### Currently Learning :books::
-  * Cyber Security
-  * Computer Vision using Deep Learning
-  * Linux System Adimistration
   
 ## I'm currently looking for :smiley:: 
   * **Internship or freelance opportunities** in the field of 
-    * C++ / Python Development
+    * Python Development
     * Machine Learning
-    * Deep Learning
+    * Web Scraping and Automation
     * Data Analysis, etc.
 ##  📫 How to reach me:
   * **Gmail :** aryanrastogi97@gmail.com
