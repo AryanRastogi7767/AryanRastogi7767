@@ -21,7 +21,6 @@ I love programming, problem-solving ,automating day-to-day tasks and working on 
   * **Internship or freelance opportunities** in the field of 
     * Python Development
     * Machine Learning
-    * Web Scraping and Automation
     * Data Analysis, etc.
 ##  📫 How to reach me:
   * **Gmail :** aryanrastogi97@gmail.com
