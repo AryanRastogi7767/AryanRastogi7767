@@ -1,15 +1,14 @@
 # Hi, I’m Aryan Rastogi 👋
 
-**Self-motivated M.Tech (CS) student @ IIIT Bangalore**, with a solid B.Tech foundation in Computer Science.  
+**Self-motivated M.Tech (CS) student @ IIIT Bangalore**, with a solid foundation in Computer Science and specialization in Machine Learning and AI.  
 Eager to leverage my passion for **software development**, **machine learning/deep learning** and **data analytics**.  
-I love programming, problem-solving, automating day‑to‑day tasks, and building impactful projects.
+I love programming, problem-solving, automating day‑to‑day tasks, and building interesting projects.
 
 ---
 
 ## 🎯 What I’m Doing
-- 🎓 Pursuing **M.Tech in Computer Science** at IIIT Bangalore (CGPA: 3.45/4)  
-- 🔍 Exploring **MLOps**, **FastAPI**, **Kubernetes**, **CI/CD** and **ELK**  
-- 🤖 Building **custom Transformers**, **VQA systems**, and **Neural Style Transfer** web apps  
+- 🎓 Pursuing **M.Tech in Computer Science** at IIIT Bangalore (CGPA: 3.48/4)  
+- 🔍 Exploring **MLOps**,  **Kubernetes**, **Generative AI**, **LLM Fine-tuning**, 
 
 ---
 
@@ -21,16 +20,16 @@ I love programming, problem-solving, automating day‑to‑day tasks, and buildi
 - **Languages:** C, C++, Python  
 - **AI/ML:** Machine Learning ─ Deep Learning ─ Predictive Modeling  
 - **Data:** Statistical Analysis ─ Pandas ─ NumPy  
-- **Tools & Frameworks:** PyTorch ─ HuggingFace Transformers ─ Scikit‑learn  
+- **Tools & Frameworks:** PyTorch ─ HuggingFace Transformers ─ Scikit‑learn
+- **Computer Vision:** OpenCV  
+- **DevOps:** Docker ─ Jenkins ─ Ansible - Kubernetes
 </details>
 
 <details>
 <summary>Familiar With</summary>
-
-- **Networking** ─ Windows PowerShell ─ Linux Kernel  
+  
+- **Networking** ─ Linux Kernel  
 - **Web Scraping** ─ GUI Automation  
-- **Computer Vision:** OpenCV  
-- **DevOps:** Docker ─ Jenkins ─ Ansible  
 </details>
 
 ---
@@ -39,7 +38,7 @@ I love programming, problem-solving, automating day‑to‑day tasks, and buildi
 
 | Degree                                 | Institution                                      | Period                   | CGPA    |
 | -------------------------------------- | ------------------------------------------------ | ------------------------ | ------- |
-| M.Tech in Computer Science             | International Institute of Information Technology, Bangalore | Jul 2024 – Present       | 3.45/4  |
+| M.Tech in Computer Science             | International Institute of Information Technology, Bangalore | Jul 2024 – Present       | 3.48/4  |
 | B.Tech in Computer Science             | JSS Academy of Technical Education, Noida        | Jul 2019 – Jul 2023      | 3.00/4  |
 
 ---
@@ -96,7 +95,7 @@ _Apr 2025 – May 2025_
 
 ## 📚 Publications
 
-**Hate Speech Detection on Twitter**  
+**Hate Speech Detection on Twitter**  [**Paper**](https://link.springer.com/chapter/10.1007/978-981-97-2508-3_11)
 _September 2024_  
 “A Comparative Evaluation of Different Machine Learning Techniques” – Presented methods for automated detection of hateful content on Twitter.
 
@@ -104,25 +103,24 @@ _September 2024_
 
 ## 🌟 Technical Toolbox
 
-- **Languages:** Python, Bash, SQL, C/C++, HTML/CSS, JavaScript  
+- **Languages:** Python, Bash, SQL, C/C++, HTML/CSS 
 - **Frameworks/Libraries:** FastAPI, Flask, React, PyTorch, TensorFlow, Scikit‑learn, Pandas, NumPy, Matplotlib, OpenCV, NLTK  
-- **DevOps & Tools:** Docker, Kubernetes, Jenkins, ELK Stack, Git, Ansible, Prometheus, Grafana  
-
+- **DevOps & Tools:** Docker, Kubernetes, Jenkins, ELK Stack, Git, Ansible
 ---
 
 ## 😃 I’m Currently Looking For
 
-**Internships or freelance opportunities** in:  
-- Python Development  
+**Internships or Full-Time opportunities** in:  
 - Machine Learning / Deep Learning  
-- Data Analysis / Data Science  
+- Data Analysis / Data Science
+- Gen AI
 
 ---
 
 ## 📫 Let’s Connect
 
 - 📧 **Email:** aryanrastogi97@gmail.com  
-- 🔗 **LinkedIn:** [aryan-rastogi-b38ba1190](https://www.linkedin.com/in/aryan-rastogi-b38ba1190/)  
+- 🔗 **LinkedIn:** [aryanrastogi97](https://www.linkedin.com/in/aryanrastogi97/)  
 - 🐱 **GitHub:** [@AryanRastogi7767](https://github.com/AryanRastogi7767)  
 - 🏆 **Kaggle:** [aryanrastogi7767](https://www.kaggle.com/aryanrastogi7767)  
 
